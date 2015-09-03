@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[\$(this).]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>this</tabTrigger>
+    <!-- Optional: Description to show in the menu -->
+    <description>This JQuery Memi</description>
+</snippet>
