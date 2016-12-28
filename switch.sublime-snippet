@@ -3,5 +3,6 @@
     <!-- Optional: Tab trigger to activate the snippet -->
     <tabTrigger>switchbtn</tabTrigger>
     <!-- Optional: Description to show in the menu -->
-    <description>Switch Button Protostrap PS</description>
+    <description>Switch Button - Protostrap</description>
+    <type>HTML</type>
 </snippet>

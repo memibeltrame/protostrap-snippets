@@ -3,5 +3,6 @@
     <!-- Optional: Tab trigger to activate the snippet -->
     <tabTrigger>data</tabTrigger>
     <!-- Optional: Description to show in the menu -->
-    <description>this data Protostrap PS</description>
+    <description>jQuery - construct this data statement - Protostrap</description>
+    <type>jQuery</type>
 </snippet>

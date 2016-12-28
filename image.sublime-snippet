@@ -3,5 +3,6 @@
     <!-- Optional: Tab trigger to activate the snippet -->
     <tabTrigger>image</tabTrigger>
     <!-- Optional: Description to show in the menu -->
-    <description>Image Protostrap PS</description>
+    <description>Image - Protostrap</description>
+    <type>HTML</type>
 </snippet>

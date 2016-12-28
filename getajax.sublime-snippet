@@ -4,7 +4,8 @@
     return;
 });]]></content>
     <!-- Optional: Tab trigger to activate the snippet -->
-    <tabTrigger>getajax</tabTrigger>
+    <tabTrigger>ajax</tabTrigger>
     <!-- Optional: Description to show in the menu -->
-    <description>Ajax Get Protostrap PS</description>
+    <description>Ajax Get request- Protostrap</description>
+    <type>JavaScript</type>
 </snippet>

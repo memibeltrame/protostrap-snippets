@@ -3,5 +3,6 @@
     <!-- Optional: Tab trigger to activate the snippet -->
     <tabTrigger>ac</tabTrigger>
     <!-- Optional: Description to show in the menu -->
-    <description>jQuery Add-class Protostrap PS</description>
+    <description>jQuery Add a Class, use "hide" as default - Protostrap</description>
+    <type>jQuery</type>
 </snippet>

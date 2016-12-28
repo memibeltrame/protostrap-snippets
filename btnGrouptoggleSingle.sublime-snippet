@@ -7,5 +7,6 @@
     <!-- Optional: Tab trigger to activate the snippet -->
     <tabTrigger>togglesingle</tabTrigger>
     <!-- Optional: Description to show in the menu -->
-    <description>Toggle Single Primary Protostrap PS</description>
+    <description>Button Group with Toggle Single Primary - Protostrap</description>
+    <type>HTML</type>
 </snippet>

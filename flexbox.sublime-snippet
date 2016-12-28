@@ -6,5 +6,6 @@
     <!-- Optional: Tab trigger to activate the snippet -->
     <tabTrigger>flexbox</tabTrigger>
     <!-- Optional: Description to show in the menu -->
-    <description>Flexbox Protostrap PS</description>
+    <description>Flexbox - Protostrap</description>
+    <type>HTML</type>
 </snippet>

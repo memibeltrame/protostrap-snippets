@@ -6,5 +6,6 @@
     <!-- Optional: Tab trigger to activate the snippet -->
     <tabTrigger>coll</tabTrigger>
     <!-- Optional: Description to show in the menu -->
-    <description>Collapse Protostrap PS</description>
+    <description>Collapse - Protostrap</description>
+    <type>HTML</type>
 </snippet>
